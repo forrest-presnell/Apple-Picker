@@ -162,9 +162,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   applePrefab: {fileID: 7110958854918087498, guid: 3ee91ee1e5fe76949897bea867300159, type: 3}
   refrigeratorPreFab: {fileID: 7110958854918087498, guid: e6340812074695e49bb26a35acc1ae9f, type: 3}
-  speed: 1
+  speed: 15
   leftAndRightEdge: 10
-  changeDirChance: 0.1
+  changeDirChance: 0.02
   appleDropDelay: 1
   refrigeratorDropChance: 0.1
 --- !u!1 &3984652041081322491
